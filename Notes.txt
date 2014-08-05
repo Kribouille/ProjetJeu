@@ -1,0 +1,15 @@
+Tuto sur les listes :
+http://www.commentcamarche.net/contents/499-liste-html-ul-li-ol-li
+
+<ol>
+<li> article 1 </li> 
+<li> article 2 </li> 
+</ol>
+
+ou bien 
+
+<ul> 
+<li> article 1 </li> 
+<li> article 2 </li> 
+</ul> 
+
