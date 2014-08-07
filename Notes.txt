@@ -1,3 +1,16 @@
+Pour les fichiers, on peut faire un système avec une page "haut de page" et une autres "bas de page" 
+ensuite le milieu est conçu dans chaque page propre à chacun.
+
+
+
+
+
+
+
+
+
+
+
 Tuto sur les listes :
 http://www.commentcamarche.net/contents/499-liste-html-ul-li-ol-li
 
@@ -12,4 +25,7 @@ ou bien
 <li> article 1 </li> 
 <li> article 2 </li> 
 </ul> 
+
+
+
 
